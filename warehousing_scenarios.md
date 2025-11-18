@@ -39,17 +39,17 @@ difficulty_levels:
 ## Scenario 5
 **Category:** packing_shipping
 **Difficulty:** beginner
-**Situation:** An urgent customer order needs to be shipped today before 4 PM. It contains fragile glassware and must travel 300 kilometers by truck. Describe how you prepare this shipment.
+**Situation:** An urgent customer order needs to be shipped today before 4 PM. It contains fragile glassware and must travel 300 kilometers by truck. Describe what is important in preparing this shipment.
 
 ## Scenario 6
 **Category:** storage
 **Difficulty:** advanced
-**Situation:** The warehouse manager asks you to reorganize a storage zone because the current layout causes too much travel time during picking. What factors do you consider and how do you approach this task?
+**Situation:** The warehouse manager asks you to reorganize a storage zone because the current layout causes too much travel time during picking. What factors do you consider?
 
 ## Scenario 7
 **Category:** cross_docking
 **Difficulty:** intermediate
-**Situation:** Three trucks arrive simultaneously with goods that need to be sorted and redistributed to five different stores. The goods must leave within 2 hours. How do you organize this cross-docking operation?
+**Situation:** Two trucks arrive simultaneously with goods that need to be unloaded. How do you organize this, which steps do you take?
 
 ## Scenario 8
 **Category:** order_picking
@@ -59,12 +59,12 @@ difficulty_levels:
 ## Scenario 9
 **Category:** traffic_management
 **Difficulty:** intermediate
-**Situation:** You must choose between road transport and rail transport for shipping 20 pallets of textiles to a customer 500 kilometers away. The customer needs delivery within 5 days. Which mode do you recommend and why?
+**Situation:** You must choose between road transport and rail transport for shipping 20 pallets of textiles to a customer 500 kilometers away. The customer needs delivery within 2 days. Which mode do you recommend and why?
 
 ## Scenario 10
 **Category:** inventory_management
 **Difficulty:** advanced
-**Situation:** The inventory system shows 150 units of a product, but during a physical count you find only 142 units. Your supervisor asks you to investigate. What could be the reasons and how do you document this?
+**Situation:** The inventory system shows 150 units of a product, but during a physical count you find only 142 units. Your supervisor asks you to investigate. What could be the reasons?
 
 ## Scenario 11
 **Category:** receiving
@@ -79,12 +79,12 @@ difficulty_levels:
 ## Scenario 13
 **Category:** storage
 **Difficulty:** intermediate
-**Situation:** You discover that chemicals and food products are stored in the same warehouse zone. Your supervisor asks you about the safety risks and what should be changed. What do you explain?
+**Situation:** You discover that chemicals and food products are stored in the same warehouse zone. Is there a problem, explain your viewpoint.
 
 ## Scenario 14
 **Category:** order_picking
-**Difficulty:** advanced
-**Situation:** The warehouse is implementing a new zone picking system instead of the current single-order picking. Your manager asks you to explain the advantages and potential challenges to your colleagues.
+**Difficulty:** beginner
+**Situation:** You are being transferred to order picking. Explain your job, what do you do?
 
 ## Scenario 15
 **Category:** traffic_management
@@ -92,9 +92,9 @@ difficulty_levels:
 **Situation:** A customer needs an emergency delivery by tomorrow morning. Normal transport would take 2 days. What transportation option do you suggest and what are the cost implications?
 
 ## Scenario 16
-**Category:** cross_docking
-**Difficulty:** advanced
-**Situation:** Your cross-docking facility receives 15 different suppliers' goods daily for redistribution to 30 retail stores. A new trainee asks you to explain how cross-docking reduces costs compared to traditional warehousing. What do you tell them?
+**Category:** inventory_management
+**Difficulty:** beginner
+**Situation:** You need to shelve 15 boxes but the assigned place is already full. What do you do?
 
 ## Scenario 17
 **Category:** inventory_management
@@ -122,14 +122,14 @@ difficulty_levels:
 **Situation:** During order picking you accidentally drop and damage a product. The item is needed for a customer order that ships today. What steps do you take?
 
 ## Scenario 22
-**Category:** inventory_management
+**Category:** order_picking
 **Difficulty:** intermediate
-**Situation:** Your company wants to reduce inventory holding costs but maintain good customer service. The manager asks for your suggestions on how to balance these two objectives.
+**Situation:** Your company wants to make picking faster to have good customer service. The manager asks for your suggestions.
 
 ## Scenario 23
 **Category:** traffic_management
 **Difficulty:** advanced
-**Situation:** A customer needs regular weekly deliveries of temperature-sensitive products. You must design a transportation plan considering cost, reliability, and product safety. What factors do you evaluate?
+**Situation:** A customer needs regular weekly deliveries of temperature-sensitive products. What should you take into account?
 
 ## Scenario 24
 **Category:** receiving
@@ -139,4 +139,4 @@ difficulty_levels:
 ## Scenario 25
 **Category:** packing_shipping
 **Difficulty:** advanced
-**Situation:** Your warehouse ships to both domestic and international customers. A trainee asks you to explain the key differences in packing and documentation requirements between domestic and international shipments. What do you tell them?
+**Situation:** Your warehouse ships to both domestic and international customers. A trainee asks you who is responsible for the differences in packing and documentation requirements. What do you tell them?
